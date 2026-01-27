@@ -79,7 +79,7 @@ export function Navigation() {
 
             {/* ✅ Resume Download Button */}
             <motion.a
-              href="/Botu_Akash_Resume.pdf"
+              href="https://drive.google.com/file/d/1-cGprn_z6imXPCP-qsGBKbuGJNofpEl2/view?usp=sharing"
               download="Botu_Akash_Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
